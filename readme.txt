@@ -1,0 +1,1 @@
+extract the files into a location as required. Check that the data file must be in the same location as the python script. Then run the script using python3. libraries like matplotlib will be essential to view the plots.
